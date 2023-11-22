@@ -1,6 +1,5 @@
 Code Dreamer 💭 | Coffee Drinker ☕ | Curious Learner 📖
-
-Greetings! I'm Tijana,✨😉 
+Greetings! I'm Tijana,✨😉 <br />
 a code dreamer fueled by curiosity and a bottomless cup of coffee.☕
 Exploring the realms of Techno-sphere💻
 I'm passionate about turning ideas into reality.
